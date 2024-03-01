@@ -1,0 +1,17 @@
+C:\PROJRCTS\C#projects\EventAPI\EventData\bin\Release\net8.0\EventData.deps.json
+C:\PROJRCTS\C#projects\EventAPI\EventData\bin\Release\net8.0\EventData.runtimeconfig.json
+C:\PROJRCTS\C#projects\EventAPI\EventData\bin\Release\net8.0\EventData.dll
+C:\PROJRCTS\C#projects\EventAPI\EventData\bin\Release\net8.0\EventData.pdb
+C:\PROJRCTS\C#projects\EventAPI\EventData\bin\Release\net8.0\EventEntity.dll
+C:\PROJRCTS\C#projects\EventAPI\EventData\bin\Release\net8.0\EventEntity.pdb
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.csproj.AssemblyReference.cache
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.AssemblyInfoInputs.cache
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.AssemblyInfo.cs
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.csproj.CoreCompileInputs.cache
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.csproj.CopyComplete
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.dll
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\refint\EventData.dll
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.pdb
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\EventData.genruntimeconfig.cache
+C:\PROJRCTS\C#projects\EventAPI\EventData\obj\Release\net8.0\ref\EventData.dll

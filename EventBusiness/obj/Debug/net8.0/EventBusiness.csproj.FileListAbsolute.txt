@@ -1,0 +1,17 @@
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\bin\Debug\net8.0\EventBusiness.deps.json
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\bin\Debug\net8.0\EventBusiness.dll
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\bin\Debug\net8.0\EventBusiness.pdb
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\bin\Debug\net8.0\EventData.dll
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\bin\Debug\net8.0\EventEntity.dll
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\bin\Debug\net8.0\EventData.pdb
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\bin\Debug\net8.0\EventEntity.pdb
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\EventBusiness.csproj.AssemblyReference.cache
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\EventBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\EventBusiness.AssemblyInfoInputs.cache
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\EventBusiness.AssemblyInfo.cs
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\EventBusiness.csproj.CoreCompileInputs.cache
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\EventBusiness.csproj.CopyComplete
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\EventBusiness.dll
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\refint\EventBusiness.dll
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\EventBusiness.pdb
+C:\PROJRCTS\C#projects\EventAPI\EventBusiness\obj\Debug\net8.0\ref\EventBusiness.dll
